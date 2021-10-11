@@ -1,5 +1,5 @@
 {% set name = "parmap" %}
-{% set version = "1.5.2" %}
+{% set version = "1.5.3" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: a15f33fa0e2a454f29aecfdd5a825c780b7d26d876eb6093476ddf5c47c8f9b9
+  sha256: 375f12ad4844726647a2b7b1a522201ea38e1f9a092527d2f5ba2cf62d709347
 
 build:
   noarch: python
