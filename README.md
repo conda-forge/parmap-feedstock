@@ -1,11 +1,11 @@
-About parmap
-============
+About parmap-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/parmap-feedstock/blob/main/LICENSE.txt)
 
 Home: http://github.com/zeehio/parmap
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/parmap-feedstock/blob/main/LICENSE.txt)
 
 Summary: map and starmap implementations passing additional arguments and parallelizing if possible
 
